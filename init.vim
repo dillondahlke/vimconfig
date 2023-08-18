@@ -16,3 +16,6 @@ Plug 'junegunn/fzf.vim'
 Plug 'vim-airline/vim-airline'
 
 call plug#end()
+
+"Enables Custom Fonts
+let g:airline_powerline_fonts = 1
