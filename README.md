@@ -1,7 +1,7 @@
 # Installation 
 
-Copy init.vim into ~/.config/nvim/
+Copy sources into ~/.config/nvim/
 
 # Dependencies
 
-- vim-plug
+- Bootstraps lazy.nvim
